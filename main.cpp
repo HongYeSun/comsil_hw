@@ -16,7 +16,7 @@ int main() {
 	int mode, selectNumber, tmpItem;
 	LinkedList<int> *p;
 	bool flag = false;
-
+	bool flag = true;
 	cout << "자료구조 선택(1: Stack, Other: Linked List): ";
 	cin >> mode;
 
