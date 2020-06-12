@@ -14,6 +14,7 @@ void prnMenu() {
 int main() {
 	//스택 및 연결 리스트 테스트용 코드
 	int mode, selectNumber, tmpItem;
+	int a;
 	LinkedList<int> *p;
 	bool flag = false;
 
